@@ -1,4 +1,4 @@
-## console.log("¡Hola, I'm inosttroza! 👋"); 
+## console.log("¡Hola, I'm Pablo! 👋"); 
 
 <a href="https://dotnet.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="25" height="25"/></a> 
 <a href="https://www.w3schools.com/cs/"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/></a> 
