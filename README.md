@@ -19,8 +19,7 @@
 
 <img src="https://i.pinimg.com/550x/04/29/45/042945faa844de84fe6628ae26f9824b.jpg" width="600"> 
 
-
-### <em>"Confía en ti mismo y piensa en grande" :)</em>
+ Confía en ti mismo y piensa en grande 
 
 
 <!--
