@@ -20,15 +20,16 @@
 <img src="https://i.pinimg.com/550x/04/29/45/042945faa844de84fe6628ae26f9824b.jpg" width="600"> 
 
  💻 Confía en ti mismo y piensa en grande 📝💻
+  <br>
+   <hr>
+   
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="25" height="25"/> My [Linkedin](https://www.linkedin.com/in/pablo-inostroza-858a0212b/) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25"/>
  <hr>
- <br>
  
- 
-😊 🎧 A continuacion algunos desarrollos realizados en ocio ✎⚡⛏
-- ☯💲 [Revisa tu horóscopo](https://horoscopos.herokuapp.com/) ✈🔮<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
-- 🕹🎮 [Juega Cachipun](https://cachipun.herokuapp.com/) 🎲🎰♢<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
-- ⌨📲 [Descarga desde play store y valida tu rut](https://play.google.com/store/apps/details?id=com.pabloinostroza.ruts&hl=es_CL&gl=US) 💻🕵<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35" height="35">
--  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="25" height="25"/> My [Linkedin](https://www.linkedin.com/in/pablo-inostroza-858a0212b/) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25"/>
+😊 🎧 ✎⚡⛏☯💲✈🔮🕹🎮🎲🎰♢⌨📲💻🕵
+- [Revisa tu horóscopo](https://horoscopos.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
+- [Juega Cachipun](https://cachipun.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
+- [Descarga desde play store y valida tu rut](https://play.google.com/store/apps/details?id=com.pabloinostroza.ruts&hl=es_CL&gl=US) <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35" height="35">
 
 
 <!--
