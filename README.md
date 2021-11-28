@@ -24,14 +24,16 @@
    <hr>
    
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="25" height="25"/> My [Linkedin](https://www.linkedin.com/in/pablo-inostroza-858a0212b/) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25"/>
- <hr>
  
-😊 🎧 ✎⚡⛏☯💲✈🔮🕹🎮🎲🎰♢⌨📲💻🕵
-- [Revisa tu horóscopo](https://horoscopos.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
-- [Juega Cachipun](https://cachipun.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
-- [Login y crea notas(mongoDb)](https://loginotas.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
+  Algunas app en mis tiempos libres
+   <br>
+ - [Revisa tu horóscopo(ejs/axios)](https://horoscopos.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
+- [Juega Cachipun(ejs/npm cachipun-ino)](https://cachipun.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
+- [Login y crea notas(ejs/mongoDb)](https://loginotas.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
+- [Generar QR(ejs/qrcode)](https://generaqr.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
 - [Descarga desde play store y valida tu rut](https://play.google.com/store/apps/details?id=com.pabloinostroza.ruts&hl=es_CL&gl=US) <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35" height="35">
 
+ <hr>
 
 <!--
 ---
