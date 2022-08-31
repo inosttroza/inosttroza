@@ -29,7 +29,8 @@
 </br>
    
 ### Algunos desarrollos:
- - [Revisa tu horóscopo(ejs/axios)](https://horoscopos.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
+- [Crea un listado de pendientes(react)](https://inosttroza.github.io/react-task/)<img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" alt="nodejs" width="35" height="35"/>
+- [Revisa tu horóscopo(ejs/axios)](https://horoscopos.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
 - [Juega Cachipun(ejs/npm cachipun-ino)](https://cachipun.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
 - [Login y crea notas(ejs/mongoDb)](https://loginotas.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
 - [Generar QR(ejs/qrcode)](https://generaqr.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
