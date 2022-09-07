@@ -7,6 +7,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" height="35" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="35" height="35"/> 
@@ -17,7 +20,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
-...
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="35" height="35" /> 
+
 </p>
 </br>
 
@@ -28,7 +32,7 @@
 </br>
 </br>
    
-### Algunos desarrollos:
+### Jugando:
 - [Crud usuarios tarjetas(react)](https://inosttroza.github.io/react-crud-users-cards/)<img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" alt="nodejs" width="35" height="35"/>
 - [Crea un listado de pendientes(react)](https://inosttroza.github.io/react-task/)<img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" alt="nodejs" width="35" height="35"/>
 - [Revisa tu horóscopo(ejs/axios)](https://horoscopos.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
