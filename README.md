@@ -33,6 +33,7 @@
 </br>
    
 ### Jugando:
+- [Covid resultados](https://react-covid-ino.vercel.app/)<img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" alt="nodejs" width="35" height="35"/>
 - [Crud usuarios tarjetas(react)](https://inosttroza.github.io/react-crud-users-cards/)<img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" alt="nodejs" width="35" height="35"/>
 - [Crea un listado de pendientes(react)](https://inosttroza.github.io/react-task/)<img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" alt="nodejs" width="35" height="35"/>
 - [Revisa tu horóscopo(ejs/axios)](https://horoscopos.herokuapp.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
