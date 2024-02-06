@@ -21,6 +21,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35" title="arduino"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="35" height="35" title="bootstrap"/> 
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" width="50" height="35" title="oracle"/> 
+<img src="https://vectorwiki.com/images/kYNj1__blazor.svg" width="35" height="35" title="blazor"/> 
 
 </p>
 </br>
